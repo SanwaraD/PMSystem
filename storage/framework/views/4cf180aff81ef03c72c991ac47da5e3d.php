@@ -1,0 +1,1 @@
+<?php /**PATH E:\pharmacy management system\pharmacy_management_system\resources\views/test.blade.php ENDPATH**/ ?>
